@@ -1,0 +1,4 @@
+14:07:21.428 [main] DEBUG beta.Demo1 - I am debugging
+14:07:21.431 [main] INFO  beta.Demo1 - Info details
+14:07:21.431 [main] ERROR beta.Demo1 - this is error
+14:07:21.431 [main] FATAL beta.Demo1 - Fatal error
